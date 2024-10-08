@@ -1,4 +1,16 @@
 p {
     background-color: lightpink;
-    font-family: 'Verdana', 'Dejavu Sans', sans-serif
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+#inno {
+    color: blue;
+    font-size: 36px;
+}
+#terzo {
+    font-size: 24px;
+}
+#quarto{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
 }
